@@ -17,4 +17,4 @@ $ npm run deploy # for uglify + SASS compressed outputs in the www folder
 For building your app, run `$ npm run deploy` before `$ ionic build` to update the `www` folder.
 
 > Sorry, it can't integrates with `ionic serve` and `ionic build`/`ionic run` :disappointed_relieved:
-> See more info [GitHub](https://codepen.io/leob6/post/quick-tip-using-gulp-to-customize-the-serve-run-and-build-process-for-your-ionic-framework-apps)
+> See more info [here](https://codepen.io/leob6/post/quick-tip-using-gulp-to-customize-the-serve-run-and-build-process-for-your-ionic-framework-apps)
